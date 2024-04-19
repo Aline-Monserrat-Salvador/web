@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(252, 253, 255);
+    background-color: rgb(11, 131, 244);
+    text-align: center;
+    text-transform: uppercase;
+    }
+    .espacio{
+        border: 1px;
+        border-radius: 10%;
+        background-color: rgb(250, 248, 248);
+        color: rgb(74, 205, 228);
+        height: 57px;
+        width: 150px;
+        font-size: 22px;
+        
+    }
+    .label1{
+        padding-right: 10px;
+        font-size: 30px;
+        color: rgb(92, 152, 226);
+    
+        input{
+            font-size: 24px;
+            color: rgb(75, 163, 225);
+            background-color: rgb(253, 249, 249);
+        }
+    }
+    .label2{
+        padding-right: 24px;
+        font-size: x-large;
+        input{
+            font-size: 20px;
+            color: rgb(91, 202, 250);
+            background-color: rgb(217, 217, 217);
+    
+        }
+    }
+    .label3{
+        font-size: 24px;
+        color: rgb(37, 145, 254);
+        background-color: #f8f4db;;
+    }
+    .label4{
+        padding-right: 24px;
+        font: caption;
+        font-size: 24px;
+        color: #0f0f00;
+    
+        input{
+            font-size: 24px;
+    
+            color: #0f0f00;
+            background-color: antiquewhite;
+        }
+    
+    }
