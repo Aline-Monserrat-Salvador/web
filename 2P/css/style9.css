@@ -1,0 +1,46 @@
+    .input{
+        border-style: none;
+        background-color: transparent;
+    }
+
+    .cajita{
+        padding: 10px;
+        background-color: transparent;
+
+        border-radius: 10px;
+        
+        
+        border-bottom: solid 2px rgb(146, 1, 49);
+        border-left: solid 2px rgb(137, 17, 57);
+    }
+
+.cremita{
+    background-color: rgb(255, 239, 208);
+        }
+
+        .border-max{
+            border-radius: 70px;
+        }
+
+        .btn2{
+            border-radius: 5px;
+            border: 2px solid rgb(94, 0, 31);
+            background-color: transparent;
+        }
+
+        body{
+            background-color: rgb(235, 223, 255);
+        }
+
+        .nav{
+            background: linear-gradient(rgb(174, 0, 41), rgb(177, 5, 74));
+        }
+
+    .img{
+        height: 50px;
+    }
+
+.txt{
+    font-size: 50px;
+    color: rgb(94, 0, 31);
+}

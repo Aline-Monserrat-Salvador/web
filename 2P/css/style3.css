@@ -1,0 +1,23 @@
+.fondo{
+    color: white;
+
+    background-image: url("../img/montañas.jpg");
+    
+    
+    text-align: center;
+}
+
+.all{
+    width: 100%;
+}
+
+.radio      {
+    
+    
+    height: 15px;
+border-radius: 50%;
+padding: 0px;
+
+overflow: hidden;
+    width: 15px;
+}
