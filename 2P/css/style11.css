@@ -57,3 +57,6 @@ background-color: rgb(255, 239, 208);
 font-size: 50px;
 color: rgb(94, 0, 31);
 }
+.row img{
+    width: 100%;
+}
