@@ -1,9 +1,9 @@
 .barra{
-    height: 60px;
+    min-height: 60px;
 }
 
 .contenido{
-    height: calc(100vh - 60px);
+    min-height: calc(100vh - 60px);
 }
 
 .hidden{
