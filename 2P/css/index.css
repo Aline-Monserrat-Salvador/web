@@ -1,0 +1,11 @@
+.barra{
+    height: 60px;
+}
+
+.contenido{
+    height: calc(100vh - 60px);
+}
+
+.hidden{
+    display: none;
+}

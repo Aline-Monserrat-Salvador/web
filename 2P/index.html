@@ -4,26 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/index.css">
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
-    <title>Document</title>
+    <title>Menú</title>
 </head>
 <body>
     <div class="row m-0">
-        <div class="container d-flex align-items-center justify-content-between" style="background-color: #c7f3f3;">
-            <div class="d-flex align-items-center">
-                <img src="" alt="">
-                <h1 class="m-0">Richard's</h1>
-                <b class="my-0 ms-4">Practicas</b>
+        <div class="container d-flex barra align-items-center justify-content-between" style="background-color: #c7f3f3;">
+            <div class="d-flex flex-wrap align-items-center">
+                <img src="img/20240606181919.png" alt="logo" style="height: 50px;">
+                <h1 class="my-0 ms-2">Richard's</h1>
+                <p class="my-0 ms-4">Practicas</p>
             </div>
             <div class="d-flex align-items-center">
                 <p class="my-0 me-2">Buscar:</p>
-                <input class="m-0 form-control" type="text" name="" id="">
+                <input class="m-0 form-control" type="text" name="" id="buscador">
             </div>
         </div>
-        <div class="d-flex justify-content-center p-2" style="background-color: #F9D2D7;">
+        <div class="d-flex justify-content-center p-2 contenido" style="background-color: #F9D2D7;">
             <div class="col-7">
                 <div class="card shadow">
-                    <ul class="list-group list-group-flush">
+                    <ul class="list-group list-group-flush" id="practicas">
                       <li class="list-group-item"><a href="practica1.html">practica 1</a></li>
                       <li class="list-group-item"><a href="practica2.html">practica 2</a></li>
                       <li class="list-group-item"><a href="practica3.html">practica 3</a></li>
@@ -41,5 +42,6 @@
 
         </div>
     </div>
+    <script src="js/index.js"></script>
 </body>
 </html>
